@@ -72,7 +72,7 @@ Inspired by AI assistants like Alexa and Google Assistant.
 
 ```bash
 git clone https://github.com/Shreya-nipunge/Voice-Activated-Virtual-Assistant.git
-cd nova-virtual-assistant
+cd Voice-Activated-Virtual-Assistant
 ```
 
 2. **Install dependencies:**
